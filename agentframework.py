@@ -34,7 +34,7 @@ class Agent():
         if self.environment[self.y][self.x] > 10:
             self.environment[self.y][self.x] -= 10
             self.store += 10
-
+    # defined a function that if two agents within a certain distance, they share the store 
     def calcutalte_distance(self, environment):
         for agent in self.agents:
             dist = self.distance_between(agent)
