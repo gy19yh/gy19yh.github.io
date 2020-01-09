@@ -5,5 +5,5 @@ Achieving this assignment, I created two files, Assessment1.py and agentframewor
 In the Assessment1.py, I mainly defined the variables that we need, the animation function, created the windows of model and imported the agentframework file that is the most important part to link two files.
 In the agentframework.py, I mainly dissolved the problem that makes the agents 'run' and 'eat' the 'environment' and make sure they are not overlap.
 
-The function in this project I use is that tkinter, random, operator, matplotlib.pyplot, matplotlib.animation, csv and matplotlib.
+The modules in this project I use is that tkinter, random, operator, matplotlib.pyplot, matplotlib.animation, csv and matplotlib.
 HTML: https://github.com/gy19yh/gy19yh.github.io.git
